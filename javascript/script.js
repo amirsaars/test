@@ -1,1 +1,1 @@
-console.log("Bootostart2");
+console.log("Bootostart");
